@@ -18,6 +18,6 @@ Hypothesis Testing is a statistical method used to make inferences or decisions 
 
 
 
-  ** A/B Testing of Themes using Python**
+  **A/B Testing of Themes using Python**
 
   A/B testing is a powerful and widely used Data Science technique to compare and evaluate marketing strategies, designs, layouts, or themes. The primary purpose of A/B testing is to make data-driven decisions that lead to improved user experiences, enhanced performance metrics, and ultimately better business outcomes.
